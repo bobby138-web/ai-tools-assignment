@@ -108,9 +108,7 @@ ai-tools-assignment/
 
 ✍️ Author
 
-Prepared by: Fredric Bobby
-📧 [your email here]
-🌐 GitHub: bobby138-web
+Prepared by: Fredric Bobby and giremunga
 
 🏁 Acknowledgements
 
