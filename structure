@@ -1,0 +1,9 @@
+AI_Assignment/
+│
+├── iris_classification.py
+├── mnist_cnn.py
+├── nlp_spacy_reviews.py
+├── app.py
+├── requirements.txt
+└── venv/
+
