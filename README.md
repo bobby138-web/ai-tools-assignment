@@ -83,7 +83,8 @@ Install dependencies
 pip install -r requirements.txt
 
 
-Launch the app and open your browser to http://localhost:8501
+Launch the app and open your browser to https://ai-tools-assignment-r6p8885yp86htvasdiebur.streamlit.app/
+
 
 🧰 Tech Stack
 Category	Tools Used
